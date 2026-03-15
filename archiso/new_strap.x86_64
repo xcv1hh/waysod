@@ -1,0 +1,63 @@
+# base and hw
+amd-ucode
+intel-ucode
+base
+linux-cachyos
+linux-firmware
+linux-firmware-marvell
+mkinitcpio
+mkinitcpio-archiso
+
+# cachy essentials
+cachy-chroot
+cachyos-hooks
+cachyos-keyring
+cachyos-mirrorlist
+cachyos-rate-mirrors
+cachyos-v3-mirrorlist
+cachyos-v4-mirrorlist
+
+# storage utils
+btrfs-progs
+cryptsetup
+dosfstools
+gptfdisk
+lvm2
+mdadm
+ntfs-3g
+nvme-cli
+parted
+
+# net utils
+bind
+dhcpcd
+dnsmasq
+ethtool
+impala
+iw
+iwd
+nmap
+openssh
+tcpdump
+traceroute
+wget
+
+# sysutils
+arch-install-scripts
+archlinux-keyring
+bash-completion
+dmidecode
+efibootmgr
+grub
+hwdetect
+hwinfo
+less
+lsof
+sudo
+usbutils
+
+# cli tools
+nano
+ripgrep
+superfile
+zellij
